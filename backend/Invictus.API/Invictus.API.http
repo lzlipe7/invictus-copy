@@ -1,0 +1,6 @@
+@Invictus.API_HostAddress = http://localhost:5093
+
+GET {{Invictus.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
