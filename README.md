@@ -110,5 +110,3 @@ Lembre de **NUNCA subir sua chave da OpenAI**. Use `.env` e `appsettings.json` n
 
 -NATAN DEL BONI
 -1999528
-
-Feito por **Lz** — artista, trapper e dev nas horas vagas.
